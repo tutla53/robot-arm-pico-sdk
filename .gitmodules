@@ -1,0 +1,8 @@
+[submodule "libraries/FreeRTOS-LTS"]
+	path = libraries/FreeRTOS-LTS
+	url = https://github.com/FreeRTOS/FreeRTOS-LTS.git
+	branch = 202210-LTS
+[submodule "libraries/pico-sdk"]
+	path = libraries/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
+	branch = master
