@@ -5,6 +5,6 @@
 	ignore = dirty
 [submodule "pico-sdk"]
 	path = pico-sdk
-	url = https://github.com/raspberrypi/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
 	branch = master
 	ignore = dirty
